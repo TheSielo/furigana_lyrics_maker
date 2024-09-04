@@ -4,7 +4,7 @@ Are you are a japanese learner like me, and you like to sing anime songs with wr
 Aren't you tired of manually mixing and matching the japanese and translated texts to follow the score more easily, just to be abused by kanji you don't know yet?
 
 Well fear no more fellow kanji hater! Furigana Lyrics Maker has you covered!
-A free and open source tool written in Flutter to create Japanese lyrics with translations and furigana, hosted at [https://lyrics.sielotech.com](https://lyrics.sielotech.com)!
+A free and open source tool written in Flutter to create Japanese lyrics with translations and furigana!
 
 Defeat those nasty kanji in the blink of an eye! Insert the japanese lyrics, the translated lyrics in the language you like, and they will be automagically mixed line by line, with free-as-in-free-beer juicy furigana included!
 
